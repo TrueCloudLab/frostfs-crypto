@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/nspcc-dev/neofs-crypto/test"
+	"github.com/TrueCloudLab/frostfs-crypto/test"
 	"github.com/stretchr/testify/require"
 )
 

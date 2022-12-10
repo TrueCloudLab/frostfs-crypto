@@ -6,8 +6,8 @@ import (
 	"crypto/sha256"
 	"fmt"
 
+	"github.com/TrueCloudLab/frostfs-crypto/internal"
 	"github.com/mr-tron/base58"
-	"github.com/nspcc-dev/neofs-crypto/internal"
 )
 
 const (
