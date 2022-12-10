@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/nspcc-dev/neofs-crypto/internal"
+	"github.com/TrueCloudLab/frostfs-crypto/internal"
 )
 
 const (
